@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594233055 source:c:\users\rogoski\desktop\aprendendo-c\ponters\main.c
+	<stdio.h>
+	<stdlib.h>
+
